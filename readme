@@ -1,0 +1,5 @@
+this is 100% ai generated, it does the job. there's an exe file ready to use in releases page, or you can build it from scratch with the command: pyinstaller --onefile bflogger.py
+
+the dependencies needed are:
+pip install watchdog
+pip install pyinstaller
